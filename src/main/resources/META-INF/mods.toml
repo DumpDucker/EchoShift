@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="echoshift"
+version="1.0.0"
+displayName="Echo Shift"
+description="A vanilla-style psychological horror mod that subtly breaks the world."
+
+[[dependencies.echoshift]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.16.5]"
+ordering="NONE"
+side="BOTH"

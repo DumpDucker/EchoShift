@@ -1,0 +1,10 @@
+{
+  "monster_spawn": {
+    "category": "hostile",
+    "sounds": ["echoshift:monster_spawn"]
+  },
+  "monster_despawn": {
+    "category": "hostile",
+    "sounds": ["echoshift:monster_despawn"]
+  }
+}
